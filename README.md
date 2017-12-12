@@ -1,5 +1,5 @@
 ## Søk
-# Bruk: https://test.einnsyn.no #
+**Bruk: https://test.einnsyn.no**
 
  - Hvor mange dokumenter (journalposter finnes det) i løsninge?
  
