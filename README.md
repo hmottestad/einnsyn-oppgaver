@@ -1,6 +1,5 @@
 {% include scripts.html %}
 
-YAYA
 
 ## Søk
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
