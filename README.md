@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/hmottestad/einnsyn-oppgaver/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<span style="color:white">Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.</span>
+<span style="color:white">YAY</span>
 
 ### Markdown
 
