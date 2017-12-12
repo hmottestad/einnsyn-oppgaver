@@ -41,6 +41,6 @@ Hint: <span style="color:white">Velg datotype i DATOAVGRENSING (husk å trykke p
 
 Svar: <span style="color:white">01.01.2010</span>
 
-![](ezgif-4-dfe1f3a338.gif)
+![](ezgif-4-dfe1f3a338.png)
 
 *** 
