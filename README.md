@@ -9,3 +9,5 @@
  - Hvor mange dokumenter (journalposter finnes det) har DIFI?
  
  Svar: <span style="color:white">26 917</span>
+ 
+ ![](ezgif-4-2918a874d7.gif)
