@@ -4,3 +4,8 @@
  - Hvor mange dokumenter (journalposter finnes det) i løsninge?
  
  Svar: <span style="color:white">Ca. 12 millioner</span>
+
+
+ - Hvor mange dokumenter (journalposter finnes det) har DIFI?
+ 
+ Svar: <span style="color:white">26 917</span>
