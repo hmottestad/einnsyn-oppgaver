@@ -20,3 +20,4 @@ Hvor mange dokumenter (journalposter finnes det) har DIFI?
  
  Svar: <span style="color:white">Kulturdepartementet</span>
  
+![](ezgif-4-84cee4de6f.gif)
