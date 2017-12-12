@@ -1,4 +1,4 @@
-{% include scripts.html %}
+
 
 ## Søk
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
