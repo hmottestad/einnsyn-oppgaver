@@ -44,3 +44,35 @@ Svar: <span style="color:white">01.01.2010</span>
 ![](ezgif-4-dfe1f3a338.png)
 
 *** 
+
+## Bruker
+**Bruk: [http://einnsyn.knowit.no/sok](http://einnsyn.knowit.no/sok)**
+
+
+***
+
+Prøv å opprett en bruker.
+
+![](a.png)
+
+
+***
+
+Gjør et søk og lagre søket. Kan du finne det igjen i Mitt eInnsyn?
+
+![](a.png)
+
+
+
+***
+
+Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
+
+![](a.png)
+
+***
+
+Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
+
+![](a.png)
+
