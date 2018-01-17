@@ -205,3 +205,36 @@ Husk å logge ut
   <source src="innsynskravAnonymt.webm" type="video/webm">
 </video>
 ***
+
+
+## Forvalter
+**Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
+**Logg inn som forvalter med "admin" som brukernavn**
+
+***
+
+#### Opprette en virksomhet
+
+
+<video  controls style="width:100%">
+  <source src="opprettVirksomhet.webm" type="video/webm">
+</video>
+
+
+
+
+***
+
+#### Opprette en virksomhetsbruker
+
+Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en ny epost.
+
+
+<video  controls style="width:100%">
+  <source src="opprettVirksomhetsbruker.webm" type="video/webm">
+</video>
+
+
+
+
+***
