@@ -327,8 +327,7 @@ Logg inn som forvalter ("admin") og skjul en **tilfeldig** virksomhet. Ikke skju
 
 #### Slette data
 
-Virksomheter kan slette hvis de har feilpublisert noe.
-
+Virksomheter kan slette data hvis de har feilpublisert noe. Enten ett og ett dokument, eller en sak med alle dokumentene. 
 
 Opprett en virksomhetsbruker på en tilfeldig virksomhet (ikke DIFI). 
 
