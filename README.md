@@ -192,7 +192,42 @@ Tips:
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 
 
+#### Enkel visning
+ 
+ 
+<video  controls preload="metadata" style="width:100%">
+  <source src="enkelVisning.webm" type="video/webm">
+</video>
 
+
+***
+
+#### Tabell visning
+ 
+ 
+ 
+<video  controls preload="metadata" style="width:100%">
+  <source src="tabellVisning.webm" type="video/webm">
+</video>
+
+
+***
+
+#### Fulltekst
+ **Bruk: [https://qa.einnsyn.no](https://qa.einnsyn.no)**
+
+Søk etter "21718626_Annet".
+
+Merk at innsynsknappen er borte.
+
+Løsningen har sikkerhet, slik at lenken til dokumentet slutter å fungere hvis dokumentet blir skjult eller slettet eller overskrevet.
+ 
+<video  controls preload="metadata" style="width:100%">
+  <source src="fulltekst.webm" type="video/webm">
+</video>
+
+
+***
 
 
 # Sluttbruker
