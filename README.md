@@ -6,13 +6,13 @@
 
 ***
 
-Hvor mange dokumenter (journalposter finnes det) i løsningen?
+##### Hvor mange dokumenter (journalposter finnes det) i løsningen?
  
  Svar: <span style="color:white">Ca. 12 millioner</span>
 
 ***
 
-Hvor mange dokumenter (journalposter finnes det) har DIFI?
+##### Hvor mange dokumenter (journalposter finnes det) har DIFI?
  
  Svar: <span style="color:white">26 917</span>
  
@@ -21,7 +21,7 @@ Hvor mange dokumenter (journalposter finnes det) har DIFI?
 ***
  
  
-"Riksarkivet Stab" er en undervirksomhet under Arkivverket. Hvem sender de post med?
+##### "Riksarkivet Stab" er en undervirksomhet under Arkivverket. Hvem sender de post med?
  
  Svar: <span style="color:white">Kulturdepartementet</span>
  
@@ -31,7 +31,7 @@ Hvor mange dokumenter (journalposter finnes det) har DIFI?
 
 ***
 
-Sorterting er verdt å øve på. Kan du finne dokumentdato på det tidligst publiserte dokumentet?
+##### Sorterting er verdt å øve på. Kan du finne dokumentdato på det tidligst publiserte dokumentet?
 
 Hint: <span style="color:white">Filtrer på Dokument. </span>
 
@@ -42,6 +42,11 @@ Hint: <span style="color:white">Velg datotype i DATOAVGRENSING (husk å trykke p
 Svar: <span style="color:white">01.01.2010</span>
 
 ![](ezgif-4-dfe1f3a338.png)
+
+***
+##### Søke på nynorsk ord
+
+![](Kapture 2018-01-17 at 12.16.58.webm)
 
 *** 
 
