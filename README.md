@@ -46,7 +46,7 @@ Svar: <span style="color:white">01.01.2010</span>
 ***
 #### Søke på nynorsk ord
 
-<video  loop="loop">
+<video  loop="loop" controls style="width:100%">
   <source src="Kapture 2018-01-17 at 12.16.58.webm" type="video/webm">
 </video>
 
