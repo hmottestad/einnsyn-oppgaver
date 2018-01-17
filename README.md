@@ -6,7 +6,7 @@
 
 ***
 
-#### Hvor mange dokumenter (journalposter finnes det) i løsningen?
+#### Hvor mange dokumenter (journalposter) finnes i løsningen?
  
  Svar: <span style="color:white">Ca. 15 millioner, men vi har ikke lastet inn alt enda.</span>
 
@@ -18,9 +18,9 @@ Merk at løsningen "husker" at man har filtrert på f.eks. interne dokument når
 
 ***
 
-#### Hvor mange dokumenter (journalposter finnes det) har DIFI?
+#### Hvor mange dokumenter (journalposter) har DIFI?
  
- Svar: <span style="color:white">26 917</span>
+ Svar: <span style="color:white">44 196</span>
  
 <video  controls style="width:100%">
   <source src="enkelFiltrering.webm" type="video/webm">
