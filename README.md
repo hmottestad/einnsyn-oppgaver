@@ -1,10 +1,10 @@
 {% include scripts.html %}
 
 # Meny
- - [Søk](Søk)
- - [Visning dokument](Søk)
- - [Sluttbruker](Søk)
- - [Forvalter og innholdleverandør](Søk)
+ - [#Søk](Søk)
+ - [#Visning dokument](Søk)
+ - [#Sluttbruker](Søk)
+ - [#Forvalter og innholdleverandør](Søk)
 
 
 # Søk
