@@ -52,7 +52,7 @@ Prøv feks.
  - annerledes / annleis
  - antakelig / truleg (merk at stemming ikke fungerer her)
 
-<video  loop="loop" controls style="width:100%">
+<video  controls style="width:100%">
   <source src="Kapture 2018-01-17 at 12.16.58.webm" type="video/webm">
 </video>
 
@@ -88,7 +88,7 @@ Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en n
 
 Forslag til passord: Passord123!
 
-<video  loop="loop" controls style="width:100%">
+<video  controls style="width:100%">
   <source src="opprettBruker.webm" type="video/webm">
 </video>
 
@@ -101,7 +101,7 @@ Forslag til passord: Passord123!
 
 Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket ditt. Du kan melde deg av på Mitt eInnsyn.
 
-<video  loop="loop" controls style="width:100%">
+<video  controls style="width:100%">
   <source src="lagreSøk.webm" type="video/webm">
 </video>
 
@@ -112,7 +112,7 @@ Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket
 
 #### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.l
 
-<video  loop="loop" controls style="width:100%">
+<video  controls style="width:100%">
   <source src="lagreSak.webm" type="video/webm">
 </video>
 
@@ -121,7 +121,7 @@ Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket
 
 #### Opprette et innsynskrav
 
-<video  loop="loop" controls style="width:100%">
+<video  controls style="width:100%">
   <source src="innsynskrav.webm" type="video/webm">
 </video>
 ***
@@ -135,7 +135,7 @@ Sortering og filtrering på status fungerer ikke i dagens løsning.
 Merk, det er mulig å "ødelegge" innsynskravene ved å endre status for raskt, slik at løsningen mister oversikt over rekkefølgen. Det er ikke noen enkel måte å fikse det på.
 
 
-<video  loop="loop" controls style="width:100%">
+<video  controls style="width:100%">
   <source src="innsynskravStatus.webm" type="video/webm">
 </video>
 ***
