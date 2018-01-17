@@ -238,3 +238,54 @@ Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en n
 
 
 ***
+
+#### Opprette undervirksomhet
+
+Logg inn som virksomhetsbrukeren din og opprett en undervirksomhet. 
+
+<video  controls style="width:100%">
+  <source src="opprettUndervirksomhet.webm" type="video/webm">
+</video>
+
+
+
+
+***
+
+#### Opprette bruker på undervirksomhet
+
+Opprett en bruker på den nye undervirksomheten din.
+
+Denne brukeren får rettigheter på dette nivået og nedover.
+
+<video  controls style="width:100%">
+  <source src="opprettBrukerUndervirksomhet.webm" type="video/webm">
+</video>
+
+
+
+***
+
+#### Sletting - undervirksomhet
+
+Man kan ikke slette en virksomhet som har brukere eller data. Men hvis man sletter brukeren så kan man slette undervirksomheten.
+
+<video  controls style="width:100%">
+  <source src="slettUndervirksomhet.webm" type="video/webm">
+</video>
+
+
+
+***
+
+#### Sletting - virksomhet
+
+Man kan fint slette seg selv, men for å slette en topp virksomhet så må man være forvalter.
+
+<video  controls style="width:100%">
+  <source src="slettVirksomhet.webm" type="video/webm">
+</video>
+
+
+
+***
