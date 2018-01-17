@@ -58,28 +58,36 @@ Svar: <span style="color:white">01.01.2010</span>
 
 ***
 
-Prøv å opprett en bruker.
+#### Prøv å opprett en bruker.
+
+Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en ny epost.
+
+Forslag til passord: Passord123!
+
+<video  loop="loop" controls style="width:100%">
+  <source src="opprettBruker.webm" type="video/webm">
+</video>
+
+
+
+
+***
+
+#### Gjør et søk og lagre søket. Kan du finne det igjen i Mitt eInnsyn?
 
 ![](a.png)
 
 
-***
-
-Gjør et søk og lagre søket. Kan du finne det igjen i Mitt eInnsyn?
-
-![](a.png)
-
-
 
 ***
 
-Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
+#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
 
 ![](a.png)
 
 ***
 
-Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
+#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
 
 ![](a.png)
 
