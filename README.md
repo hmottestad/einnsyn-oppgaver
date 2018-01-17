@@ -78,7 +78,7 @@ Man kan søke på saksnummer på formatet "år/sekvensnummer" eg. 2017/297
 
 Søket gir ofte mange treff, så filtrering på virksomhet er lurt.
 
-Det er også mulig å søke på to-siffer for år, eg. 17/297
+Det er også mulig å søke på to siffer for år, eg. 17/297
 
 Vi støtter ikke ledende 0 eller andre tegn, men det er planlagt for fremtiden. Da vil man kunne søke på 2017/0297 og kanskje 2017/0297-1 (for dokument).
 
