@@ -29,9 +29,9 @@ Merk at løsningen "husker" at man har filtrert på f.eks. interne dokument når
 ***
  
  
-#### "Riksarkivet Stab" er en undervirksomhet under Arkivverket. Hvem sender de post med?
+#### "Avdeling for kommunikasjon" er en undervirksomhet under Arbeidstilsynet. Hvem har de pratet med om "Overvåkningssystem"?
  
- Svar: <span style="color:white">Kulturdepartementet</span>
+ Svar: <span style="color:white">NRK Trøndelag</span>
  
 <video  controls style="width:100%">
   <source src="dypFiltrering.webm" type="video/webm">
@@ -39,6 +39,8 @@ Merk at løsningen "husker" at man har filtrert på f.eks. interne dokument når
 
 
 ***
+
+
 
 #### Sorterting er verdt å øve på. Kan du finne dokumentdato på det tidligst publiserte dokumentet?
 
@@ -129,6 +131,21 @@ Trykk på "Om eInnsyn" øverst og velg "Brukerveiledning".
 
 
 ***
+
+#### SSB og Finansdepartementet har vært i blesten for ikke så lenge siden. Hvor mange dokument/saker har Finansdepartementet om SSB?
+ 
+ Husk at SSB er en forkortelse, så du søke på både SSB og Statistisk sentralbyrå.
+ 
+ Svar: <span style="color:white">1 636</span>
+ 
+Hvis du også legger til det fra Finanstilsynet, hvor mange blir det da?
+
+ Svar: <span style="color:white">1 705</span>
+
+
+
+***
+
 
 
 
