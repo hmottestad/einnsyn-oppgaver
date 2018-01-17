@@ -58,6 +58,24 @@ Prøv feks.
 
 *** 
 
+#### Søke på saksnummer
+
+***
+
+#### Søke med *
+
+***
+
+#### Søke med "eller" og "minus"
+
+***
+
+#### Info om spesialtegn i søk
+
+***
+
+
+
 ## Bruker
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 
@@ -92,13 +110,32 @@ Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket
 
 ***
 
-#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
+#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.l
 
-![](a.png)
+<video  loop="loop" controls style="width:100%">
+  <source src="lagreSak.webm" type="video/webm">
+</video>
+
 
 ***
 
-#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
+#### Opprette et innsynskrav
 
-![](a.png)
+<video  loop="loop" controls style="width:100%">
+  <source src="innsynskrav.webm" type="video/webm">
+</video>
+***
 
+#### Endre status på innsynskrav selv
+
+Status oppdaterer seg ikke automatisk. Men brukere kan endre statusen på innsynskravene manuelt i løsningen. De kan se tidligere statuser. 
+
+Sortering og filtrering på status fungerer ikke i dagens løsning.
+
+Merk, det er mulig å "ødelegge" innsynskravene ved å endre status for raskt, slik at løsningen mister oversikt over rekkefølgen. Det er ikke noen enkel måte å fikse det på.
+
+
+<video  loop="loop" controls style="width:100%">
+  <source src="innsynskravStatus.webm" type="video/webm">
+</video>
+***
