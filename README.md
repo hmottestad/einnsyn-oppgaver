@@ -10,13 +10,20 @@
  
  Svar: <span style="color:white">Ca. 12 millioner</span>
 
+<video  controls style="width:100%">
+  <source src="filtreringPåDokumentSak.webm" type="video/webm">
+</video>
+
+
 ***
 
 #### Hvor mange dokumenter (journalposter finnes det) har DIFI?
  
  Svar: <span style="color:white">26 917</span>
  
- ![](ezgif-4-2918a874d7.png)
+<video  controls style="width:100%">
+  <source src="enkelFiltrering.webm" type="video/webm">
+</video>
  
 ***
  
@@ -25,8 +32,9 @@
  
  Svar: <span style="color:white">Kulturdepartementet</span>
  
-![](ezgif-4-84cee4de6f.png)
-
+<video  controls style="width:100%">
+  <source src="dypFiltrering.webm" type="video/webm">
+</video>
 
 
 ***
@@ -120,7 +128,7 @@ Trykk på "Om eInnsyn" øverst og velg "Brukerveiledning".
 
 
 
-## Bruker
+## Sluttbruker
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 
 
