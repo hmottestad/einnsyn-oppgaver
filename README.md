@@ -81,7 +81,12 @@ Forslag til passord: Passord123!
 
 #### Gjør et søk og lagre søket. Kan du finne det igjen i Mitt eInnsyn?
 
-![](a.png)
+Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket ditt. Du kan melde deg av på Mitt eInnsyn.
+
+<video  loop="loop" controls style="width:100%">
+  <source src="lagreSøk.webm" type="video/webm">
+</video>
+
 
 
 
