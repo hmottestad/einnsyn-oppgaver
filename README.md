@@ -77,9 +77,33 @@ Vi støtter ikke ledende 0 eller andre tegn, men det er planlagt for fremtiden. 
 
 #### Søke med *
 
+Søk med stjerne er mulig på slutten av et ord. Det fungerer ikke for * først, eller for * inni ord. Det er maks 3 stjerner.
+
+<video  controls style="width:100%">
+  <source src="stjerneSøk.webm" type="video/webm">
+</video>
+
 ***
 
 #### Søke med "eller" og "minus"
+
+Søk er "og" som standard. Man kan bruke | for å søke på to ord selv om de ikke forekommer i samme dokument.
+
+<video  controls style="width:100%">
+  <source src="ellerSøk.webm" type="video/webm">
+</video>
+
+
+Hvis man får for mange treff, så kan man redusere søket ved å fjerne ord. Feks: bistand systemutvikling -midlertidig -soa -tilbud -avrop
+
+Husk at det ikke skal være mellomrom etter -
+
+Det er også viktig å vite at detter fungerer dårlig på tvers av dokument og saksmappe.
+
+<video  controls style="width:100%">
+  <source src="fjerneTreff.webm" type="video/webm">
+</video>
+
 
 ***
 
