@@ -10,7 +10,7 @@
  
  Svar: <span style="color:white">Ca. 15 millioner, men vi har ikke lastet inn alt enda.</span>
 
-<video  controls preload="auto" style="width:100%">
+<video  controls preload="metadata" style="width:100%">
   <source src="filtreringPåDokumentSak.webm" type="video/webm">
 </video>
 
