@@ -1,10 +1,10 @@
 {% include scripts.html %}
 
 # Meny
- - [#Søk](Søk)
- - [#Visning dokument](Søk)
- - [#Sluttbruker](Søk)
- - [#Forvalter og innholdleverandør](Søk)
+ - [Søk](#Søk)
+ - [Visning dokument](#Visning dokument)
+ - [Sluttbruker](#Sluttbruker)
+ - [Forvalter og innholdleverandør](#Forvalter og innholdleverandør)
 
 
 # Søk
@@ -170,7 +170,7 @@ Hvis du også legger til det fra Finanstilsynet, hvor mange blir det da?
 
 #### Finn det utgående brevet hos Difi
 
-[https://test.einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fsaksmappe%2F3435209&jid=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fjournalpost%2F16918699](Start med dette dokumentet)
+[Start med dette dokumentet](https://test.einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fsaksmappe%2F3435209&jid=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fjournalpost%2F16918699)
 
 Prøv å finn det utgående brevet hos Difi.
 
