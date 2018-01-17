@@ -1,5 +1,11 @@
 {% include scripts.html %}
 
+# Meny
+ - [Søk](Søk)
+ - [Visning dokument](Søk)
+ - [Sluttbruker](Søk)
+ - [Forvalter og innholdleverandør](Søk)
+
 
 # Søk
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
@@ -142,9 +148,45 @@ Hvis du også legger til det fra Finanstilsynet, hvor mange blir det da?
 
  Svar: <span style="color:white">1 705</span>
 
+***
+
+#### Difi og KMD har snakket sammen om budsjett. Hva har de snakket sammen om?
+ 
+ Tips:
+  - Man kan filtrere på flere virksomheter samtidig.
+  - Man kan søke på flere ord, og gruppere logikk. F.eks. auka (leikanger skole | oslo skole)
+  - Man kan fjerne ting fra søket, f.eks. -sametinget
+ 
+ Svar: <span style="color:white">Statsbudsjettet, frokostseminar, medfinansieringsordningen og digital opplæring</span>
+ 
+ **Video viser gruppering av logikk i fritekstsøk**
+ 
+<video  controls preload="metadata" style="width:100%">
+  <source src="difiKmdGruppering.webm" type="video/webm">
+</video>
 
 
 ***
+
+#### Finn det utgående brevet hos Difi
+
+[https://test.einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fsaksmappe%2F3435209&jid=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fjournalpost%2F16918699](Start med dette dokumentet)
+
+Prøv å finn det utgående brevet hos Difi.
+
+Tips:
+ - Filtrere på virksomhet
+ - Søke på tittel
+ - Avgrens datoene
+ - Filtrer på utgående/innkommende
+ 
+ <video  controls preload="metadata" style="width:100%">
+   <source src="difiKmdFinnUtgående.webm" type="video/webm">
+ </video>
+
+
+
+
 
 
 
