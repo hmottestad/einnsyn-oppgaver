@@ -139,3 +139,11 @@ Merk, det er mulig å "ødelegge" innsynskravene ved å endre status for raskt, 
   <source src="innsynskravStatus.webm" type="video/webm">
 </video>
 ***
+
+
+#### Opprette et innsynskrav anonymt
+
+<video  controls style="width:100%">
+  <source src="innsynskravAnonymt.webm" type="video/webm">
+</video>
+***
