@@ -8,12 +8,13 @@
 
 #### Hvor mange dokumenter (journalposter finnes det) i løsningen?
  
- Svar: <span style="color:white">Ca. 12 millioner</span>
+ Svar: <span style="color:white">Ca. 15 millioner, men vi har ikke lastet inn alt enda.</span>
 
 <video  controls style="width:100%">
   <source src="filtreringPåDokumentSak.webm" type="video/webm">
 </video>
 
+Merk at løsningen "husker" at man har filtrert på f.eks. interne dokument når man bytter til å filtrere på saksmappe. Detter er en bug.
 
 ***
 
