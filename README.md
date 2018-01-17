@@ -109,6 +109,13 @@ Det er også viktig å vite at detter fungerer dårlig på tvers av dokument og 
 
 #### Info om spesialtegn i søk
 
+Hvor finner man mer info om spesialtegn? 
+
+Trykk på "Om eInnsyn" øverst og velg "Brukerveiledning".
+
+[https://test.einnsyn.no/informasjon/brukerveiledning](https://test.einnsyn.no/informasjon/brukerveiledning)
+
+
 ***
 
 
