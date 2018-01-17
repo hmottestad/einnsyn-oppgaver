@@ -46,7 +46,9 @@ Svar: <span style="color:white">01.01.2010</span>
 ***
 #### Søke på nynorsk ord
 
-![](Kapture 2018-01-17 at 12.16.58.webm)
+<video  loop="loop">
+  <source src="Kapture 2018-01-17 at 12.16.58.webm" type="video/webm">
+</video>
 
 *** 
 
