@@ -4,7 +4,7 @@
  - [Søk](#søk)
  - [Visning dokument](#visning-dokument)
  - [Sluttbruker](#sluttbruker)
- - [Forvalter og innholdleverandør](#forvalter-og_innholdleverandør)
+ - [Forvalter og innholdsleverandør](#forvalter-og-innholdsleverandør)
 
 
 # Søk
@@ -188,6 +188,10 @@ Tips:
 
 
 
+# Visning dokument
+**Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
+
+
 
 
 
@@ -266,7 +270,7 @@ Husk å logge ut
 ***
 
 
-# Forvalter og innholdleverandør
+# Forvalter og innholdsleverandør
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 **Logg inn som forvalter med "admin" som brukernavn**
 
