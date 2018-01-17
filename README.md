@@ -48,9 +48,12 @@ Hint: <span style="color:white">Sorter på eldste først. </span>
 
 Hint: <span style="color:white">Velg datotype i DATOAVGRENSING (husk å trykke på "Vis datotype"</span>
 
-Svar: <span style="color:white">01.01.2010</span>
+Svar: <span style="color:white">3.04.0004 hehe :)</span>
 
-![](ezgif-4-dfe1f3a338.png)
+<video  controls style="width:100%">
+  <source src="sortering.webm" type="video/webm">
+</video>
+
 
 ***
 #### Søke på nynorsk ord
