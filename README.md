@@ -107,7 +107,7 @@ Søk med stjerne er mulig på slutten av et ord. Det fungerer ikke for * først,
 
 #### Søke med "eller" og "minus"
 
-Søk er "og" som standard. Man kan bruke | for å søke på to ord selv om de ikke forekommer i samme dokument.
+Søk er "og" som standard. Man kan bruke &#124; for å søke på to ord selv om de ikke forekommer i samme dokument.
 
 <video  controls preload="metadata" style="width:100%">
   <source src="ellerSøk.webm" type="video/webm">
@@ -154,7 +154,7 @@ Hvis du også legger til det fra Finanstilsynet, hvor mange blir det da?
  
  Tips:
   - Man kan filtrere på flere virksomheter samtidig.
-  - Man kan søke på flere ord, og gruppere logikk. F.eks. auka (leikanger skole | oslo skole)
+  - Man kan søke på flere ord, og gruppere logikk. F.eks. auka (leikanger skole &#124; oslo skole)
   - Man kan fjerne ting fra søket, f.eks. -sametinget
  
  Svar: <span style="color:white">Statsbudsjettet, frokostseminar, medfinansieringsordningen og digital opplæring</span>
