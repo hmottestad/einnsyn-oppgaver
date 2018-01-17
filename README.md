@@ -46,6 +46,12 @@ Svar: <span style="color:white">01.01.2010</span>
 ***
 #### Søke på nynorsk ord
 
+Prøv feks.
+
+ - tilskudd / tilskot
+ - annerledes / annleis
+ - antakelig / truleg (merk at stemming ikke fungerer her)
+
 <video  loop="loop" controls style="width:100%">
   <source src="Kapture 2018-01-17 at 12.16.58.webm" type="video/webm">
 </video>
@@ -53,7 +59,7 @@ Svar: <span style="color:white">01.01.2010</span>
 *** 
 
 ## Bruker
-**Bruk: [http://einnsyn.knowit.no/sok](http://einnsyn.knowit.no/sok)**
+**Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 
 
 ***
