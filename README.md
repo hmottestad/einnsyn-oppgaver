@@ -204,6 +204,20 @@ Tips:
 
 #### Tabell visning
  
+ Bruk tabell visningen til å finne journalposter med stort avvik mellom dokumentets dato, journalføringsdato og publiseringsdato.
+ 
+ [Ta utganspunkt i denne saken](https://test.einnsyn.no/saksmappe?id=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fsaksmappe%2F4759587&jid=http%3A%2F%2Fdata.einnsyn.no%2Foep-dump%2Fjournalpost%2F24186483)
+ 
+ Hva er avviket mellom journalføringsdato og pulblisert dato på dokument nr 29 med tittel "Brev statsråden åpenhet og mulighet for innspill om landmaktsutredningen - statusrapport i juni"?
+ 
+  Svar: <span style="color:white">Ca 3 1/2 måned</span>
+
+
+Ved hjelp av sortering. Hvilket dokument er blitt journalførst og publisert sent i forhold til dokumentets dato?
+
+
+ Svar: <span style="color:white">Nr. 20 : Finnmark fylkeskommunes innspill til Landmaktutredningen</span>
+
  
  
 <video  controls preload="metadata" style="width:100%">
