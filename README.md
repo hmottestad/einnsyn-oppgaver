@@ -1,7 +1,7 @@
 {% include scripts.html %}
 
 
-## Søk
+# Søk
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 
 ***
@@ -149,7 +149,7 @@ Hvis du også legger til det fra Finanstilsynet, hvor mange blir det da?
 
 
 
-## Sluttbruker
+# Sluttbruker
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 
 
@@ -224,7 +224,7 @@ Husk å logge ut
 ***
 
 
-## Forvalter
+# Forvalter og innholdleverandør
 **Bruk: [https://test.einnsyn.no](https://test.einnsyn.no)**
 **Logg inn som forvalter med "admin" som brukernavn**
 
@@ -306,3 +306,22 @@ Man kan fint slette seg selv, men for å slette en topp virksomhet så må man v
 
 
 ***
+
+#### Skjule en virksomhet
+
+Virksomheter kan skjules hvis de har feilpublisert noe og de ikke vil at noen skal få se hva de har publisert.
+
+Kun virksomheten hvor dataene er blitt levert blir skjult. Så hvis man har et dypt hierarki av virksomheter og man ønsker å skjule alt, så må man skjule én og én. 
+Undervirksomheter som er av administrativEnhet kan ikke skjules, selv om det kan se slik ut.
+
+Logg inn som forvalter ("admin") og skjul en **tilfeldig** virksomhet. Ikke skjul DIFI! Husk å logge ut for å se om skjulingen fungerte.
+
+**Husk å vise virksomheten igjen når du er ferdig!**
+
+<video  controls style="width:100%">
+  <source src="skjulVirksomhet.webm" type="video/webm">
+</video>
+
+***
+
+
