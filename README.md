@@ -325,3 +325,21 @@ Logg inn som forvalter ("admin") og skjul en **tilfeldig** virksomhet. Ikke skju
 ***
 
 
+#### Slette data
+
+Virksomheter kan slette hvis de har feilpublisert noe.
+
+
+Opprett en virksomhetsbruker på en tilfeldig virksomhet (ikke DIFI). 
+
+Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en ny epost.
+
+Logg inn som virksomhetsbrukeren din, filtrer på virksomheten din i et søk og slett et dokument. Merk at dokumentet er borte hvis du søker på nytt.
+
+<video  controls style="width:100%">
+  <source src="sletteData.webm" type="video/webm">
+</video>
+
+***
+
+
