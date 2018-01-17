@@ -10,7 +10,7 @@
  
  Svar: <span style="color:white">Ca. 15 millioner, men vi har ikke lastet inn alt enda.</span>
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="filtreringPåDokumentSak.webm" type="video/webm">
 </video>
 
@@ -22,7 +22,7 @@ Merk at løsningen "husker" at man har filtrert på f.eks. interne dokument når
  
  Svar: <span style="color:white">44 196</span>
  
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="enkelFiltrering.webm" type="video/webm">
 </video>
  
@@ -33,7 +33,7 @@ Merk at løsningen "husker" at man har filtrert på f.eks. interne dokument når
  
  Svar: <span style="color:white">NRK Trøndelag</span>
  
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="dypFiltrering.webm" type="video/webm">
 </video>
 
@@ -52,7 +52,7 @@ Hint: <span style="color:white">Velg datotype i DATOAVGRENSING (husk å trykke p
 
 Svar: <span style="color:white">3.04.0004 hehe :)</span>
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="sortering.webm" type="video/webm">
 </video>
 
@@ -66,7 +66,7 @@ Prøv feks.
  - annerledes / annleis
  - antakelig / truleg (merk at stemming ikke fungerer her)
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="Kapture 2018-01-17 at 12.16.58.webm" type="video/webm">
 </video>
 
@@ -82,7 +82,7 @@ Det er også mulig å søke på to-siffer for år, eg. 17/297
 
 Vi støtter ikke ledende 0 eller andre tegn, men det er planlagt for fremtiden. Da vil man kunne søke på 2017/0297 og kanskje 2017/0297-1 (for dokument).
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="søkPåSaksnummer.webm" type="video/webm">
 </video>
 
@@ -93,7 +93,7 @@ Vi støtter ikke ledende 0 eller andre tegn, men det er planlagt for fremtiden. 
 
 Søk med stjerne er mulig på slutten av et ord. Det fungerer ikke for * først, eller for * inni ord. Det er maks 3 stjerner.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="stjerneSøk.webm" type="video/webm">
 </video>
 
@@ -103,7 +103,7 @@ Søk med stjerne er mulig på slutten av et ord. Det fungerer ikke for * først,
 
 Søk er "og" som standard. Man kan bruke | for å søke på to ord selv om de ikke forekommer i samme dokument.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="ellerSøk.webm" type="video/webm">
 </video>
 
@@ -114,7 +114,7 @@ Husk at det ikke skal være mellomrom etter -
 
 Det er også viktig å vite at detter fungerer dårlig på tvers av dokument og saksmappe.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="fjerneTreff.webm" type="video/webm">
 </video>
 
@@ -161,7 +161,7 @@ Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en n
 
 Forslag til passord: Passord123!
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="opprettBruker.webm" type="video/webm">
 </video>
 
@@ -174,7 +174,7 @@ Forslag til passord: Passord123!
 
 Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket ditt. Du kan melde deg av på Mitt eInnsyn.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="lagreSøk.webm" type="video/webm">
 </video>
 
@@ -185,7 +185,7 @@ Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket
 
 #### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="lagreSak.webm" type="video/webm">
 </video>
 
@@ -194,7 +194,7 @@ Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket
 
 #### Opprette et innsynskrav
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="innsynskrav.webm" type="video/webm">
 </video>
 ***
@@ -208,7 +208,7 @@ Sortering og filtrering på status fungerer ikke i dagens løsning.
 Merk, det er mulig å "ødelegge" innsynskravene ved å endre status for raskt, slik at løsningen mister oversikt over rekkefølgen. Det er ikke noen enkel måte å fikse det på.
 
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="innsynskravStatus.webm" type="video/webm">
 </video>
 ***
@@ -218,7 +218,7 @@ Merk, det er mulig å "ødelegge" innsynskravene ved å endre status for raskt, 
 
 Husk å logge ut
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="innsynskravAnonymt.webm" type="video/webm">
 </video>
 ***
@@ -233,7 +233,7 @@ Husk å logge ut
 #### Opprette en virksomhet
 
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="opprettVirksomhet.webm" type="video/webm">
 </video>
 
@@ -247,7 +247,7 @@ Husk å logge ut
 Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en ny epost.
 
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="opprettVirksomhetsbruker.webm" type="video/webm">
 </video>
 
@@ -260,7 +260,7 @@ Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en n
 
 Logg inn som virksomhetsbrukeren din og opprett en undervirksomhet. 
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="opprettUndervirksomhet.webm" type="video/webm">
 </video>
 
@@ -275,7 +275,7 @@ Opprett en bruker på den nye undervirksomheten din.
 
 Denne brukeren får rettigheter på dette nivået og nedover.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="opprettBrukerUndervirksomhet.webm" type="video/webm">
 </video>
 
@@ -287,7 +287,7 @@ Denne brukeren får rettigheter på dette nivået og nedover.
 
 Man kan ikke slette en virksomhet som har brukere eller data. Men hvis man sletter brukeren så kan man slette undervirksomheten.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="slettUndervirksomhet.webm" type="video/webm">
 </video>
 
@@ -299,7 +299,7 @@ Man kan ikke slette en virksomhet som har brukere eller data. Men hvis man slett
 
 Man kan fint slette seg selv, men for å slette en topp virksomhet så må man være forvalter.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="slettVirksomhet.webm" type="video/webm">
 </video>
 
@@ -318,7 +318,7 @@ Logg inn som forvalter ("admin") og skjul en **tilfeldig** virksomhet. Ikke skju
 
 **Husk å vise virksomheten igjen når du er ferdig!**
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="skjulVirksomhet.webm" type="video/webm">
 </video>
 
@@ -336,7 +336,7 @@ Gå til [https://www.mailinator.com](https://www.mailinator.com) for å få en n
 
 Logg inn som virksomhetsbrukeren din, filtrer på virksomheten din i et søk og slett et dokument. Merk at dokumentet er borte hvis du søker på nytt.
 
-<video  controls style="width:100%">
+<video  controls preload="none" style="width:100%">
   <source src="sletteData.webm" type="video/webm">
 </video>
 
