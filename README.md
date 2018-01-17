@@ -60,6 +60,19 @@ Prøv feks.
 
 #### Søke på saksnummer
 
+Man kan søke på saksnummer på formatet "år/sekvensnummer" eg. 2017/297
+
+Søket gir ofte mange treff, så filtrering på virksomhet er lurt.
+
+Det er også mulig å søke på to-siffer for år, eg. 17/297
+
+Vi støtter ikke ledende 0 eller andre tegn, men det er planlagt for fremtiden. Da vil man kunne søke på 2017/0297 og kanskje 2017/0297-1 (for dokument).
+
+<video  controls style="width:100%">
+  <source src="søkPåSaksnummer.webm" type="video/webm">
+</video>
+
+
 ***
 
 #### Søke med *
@@ -142,6 +155,8 @@ Merk, det er mulig å "ødelegge" innsynskravene ved å endre status for raskt, 
 
 
 #### Opprette et innsynskrav anonymt
+
+Husk å logge ut
 
 <video  controls style="width:100%">
   <source src="innsynskravAnonymt.webm" type="video/webm">
