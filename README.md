@@ -183,7 +183,7 @@ Hva gjør abonnere på søk? Da får du epost når det kommer nye treff i søket
 
 ***
 
-#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.l
+#### Gå inn på en sak (eller trykk på saken fra et dokument). Lagre saken.
 
 <video  controls style="width:100%">
   <source src="lagreSak.webm" type="video/webm">
